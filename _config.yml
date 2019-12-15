@@ -10,6 +10,18 @@ message: #Please register to our Google <a href="https://groups.google.com/forum
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
 url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
 syllabus: http://sauleh.github.io/course_template/syllabus/
+]0[ محمدمهدي همايونپور، فرزاد حصار، سيدامير اصغري، علي قنبري، ريزپردازنده و زبان اسمبلي، انتشارات￼￼￼￼ شي بهايي،0312.
+[2] John Uffenbeck, The 8186/8188 Family: Design, Programming, and Interfacing, Prentice Hall, 3rd Edition, 2110.
+[3] ATmega06 microcontroller datasheet.
+[4] James L. Antonakos, The Pentium Microprocessor, Prentice-Hall, 0118.
+[9] Holzner Steven Advanced Assembly Language, Prentice-Hall, 0119.
+[6] Intel Corporation, Intel Pentium Developer’s Manual, Volume 3, 0119.
+[7] NASM Development Team, NASM-Netwide Assembler User Manual, 2102.
+[8] Richard H. Barnett, Sarah Cox, Larry O'Cull, Embedded C Programming and the
+Atmel AVR, Delnmar Cengage Learning Publishing, 2100. [1] CodeVisionAVR C compiler, User manual, 2113.
+[01] AVR Assembler, Atmel, 2114.
+[00] Atmel Studio, Atmel.
+[02] Winavr User Guide.
 githubdir: 
 
 # Author/user information
