@@ -41,7 +41,7 @@ collections:
         output: true
     assignments:
         output: true
-    announcements:
+    announcements: Microprocessors and Assembly language
         output: false
 
 sass:
