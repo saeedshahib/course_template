@@ -42,7 +42,7 @@ collections:
     assignments:
         output: true
     announcements: "Microprocessors and Assembly language"
-        output: true
+        output: false
 
 sass:
     style: :compressed        
